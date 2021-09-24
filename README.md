@@ -64,6 +64,6 @@ So far we have covered how to create repositories, brainstorm in teams and get f
 
 ## Images
 ```markdown
-![GitHub Logo]![logo](https://user-images.githubusercontent.com/53211525/134612372-73f3a664-b381-4fc8-a0fe-9b47a13bab70.jpg)
+![GitHub Logo]![logo](https://github.com/daljitsinghjuly1997/Mobile-App-Portfolio/blob/main/images/Logo.jpg)
 Format: ![Alt Text](url)
 ```
