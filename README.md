@@ -6,7 +6,8 @@
 This is where all the planning and design for my future application in Mobile Portfolio 2 can be found. 
 
 
-![Brainstorming](./images/brainstorm.png)
+![Brainstorming][Screenshot (1)](https://user-images.githubusercontent.com/53211525/134612049-89ad24d0-98b4-4952-8aca-cc40ee70e53b.png)
+
 
 ## Intro
 I started with going to miro and using a preset for brainstorming on a 1 - 8 page document. I used collaboration with other people to get feedback on my ideas and improve what I was working on. 
