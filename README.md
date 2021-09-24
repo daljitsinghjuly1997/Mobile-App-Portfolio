@@ -6,7 +6,7 @@
 This is where all the planning and design for my future application in Mobile Portfolio 2 can be found. 
 
 
-![Brainstorming][Screenshot (1)](https://user-images.githubusercontent.com/53211525/134612049-89ad24d0-98b4-4952-8aca-cc40ee70e53b.png)
+![Brainstorming][My Dashboard](https://user-images.githubusercontent.com/53211525/134612049-89ad24d0-98b4-4952-8aca-cc40ee70e53b.png)
 
 
 ## Intro
@@ -24,22 +24,18 @@ So far we have covered how to create repositories, brainstorm in teams and get f
 
 ## UML Diagrams
 
-### Use Case for Budgeting App
-![Use Case for Budgeting](./images/use_case.png)
+### Use Case for PollUp App
+![Use Case for PollUp App]![pole](https://user-images.githubusercontent.com/53211525/134612228-53fe55c7-2e43-42e3-a35d-5f7c798ea41e.png)
 
-
-### Use Case for Sales Lead Tracking App
-![Use Case for Sales](./images/sales_lead_app.png)
 
 
 ## Activity Diagrams
 
-### Activity Diagram for Budgeting App
-![Use Case for Budgeting](./images/use_case.png)
+### Activity Diagram for PollUp App
+![Use Case for PollUp App]![pole 2](https://user-images.githubusercontent.com/53211525/134612248-fd92136c-4530-4bea-862a-9c1034b48c1a.png)
 
 
-### Activity Diagram for Sales Lead Tracking App
-![Use Case for Sales](./images/sales_lead_app.png)
+
 
 ## Styling
 ```markdown
@@ -68,6 +64,6 @@ So far we have covered how to create repositories, brainstorm in teams and get f
 
 ## Images
 ```markdown
-![GitHub Logo](/images/logo.png)
+![GitHub Logo]![logo](https://user-images.githubusercontent.com/53211525/134612372-73f3a664-b381-4fc8-a0fe-9b47a13bab70.jpg)
 Format: ![Alt Text](url)
 ```
