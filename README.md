@@ -6,7 +6,7 @@
 This is where all the planning and design for my future application in Mobile Portfolio 2 can be found. 
 
 
-![Brainstorming][My Dashboard](https://user-images.githubusercontent.com/53211525/134612049-89ad24d0-98b4-4952-8aca-cc40ee70e53b.png)
+![Brainstorming][My Dashboard]![Dashboard](https://user-images.githubusercontent.com/53211525/134613373-3dcf6426-1204-4627-b950-b69ebbf1753c.png)
 
 
 ## Intro
